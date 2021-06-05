@@ -5,6 +5,7 @@ public class Book {
 	Author author;
 	int year;
 	double price;
+	int yearLast;
 
 	/**
 	 * @return This method returns the book name
